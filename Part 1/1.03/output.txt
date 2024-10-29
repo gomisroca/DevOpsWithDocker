@@ -1,0 +1,2 @@
+> docker run -it -d devopsdockeruh/simple-web-service:ubuntu sh -c "tail -f ./text.log"
+7975f454d317fbf5ac3b63363cec6a80673ff337300288120f719e07bb10b814
