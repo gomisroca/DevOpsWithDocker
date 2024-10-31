@@ -1,0 +1,2 @@
+> docker run -it -d devopsdockeruh/simple-web-service:alpine sh -c "tail -f ./text.log"
+3b219beff2982221844c1015a53e1d1b0c8f34ced32085cafd2603f66ba17376
